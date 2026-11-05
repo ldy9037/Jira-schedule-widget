@@ -110,3 +110,7 @@ python jira_widget.pyw --uninstall
 | `Jira 주소가 다른 곳으로 넘어감` | 사이트 주소가 옛 주소이거나 오타입니다. 브라우저 주소창의 `https://….atlassian.net`을 그대로 넣으세요 |
 | 위젯이 안 보인다 | 화면 밖으로 나갔을 수 있습니다. `config.json`에서 `x`, `y`를 `null`로 바꾸고 다시 켜세요 |
 | 글자가 흐리다 | 화면 배율을 바꾼 뒤라면 위젯을 다시 켜세요 |
+
+## 라이선스
+
+[MIT](LICENSE)
